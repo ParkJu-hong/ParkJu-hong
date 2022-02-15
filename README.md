@@ -1,6 +1,5 @@
-### Hi there 👋
 
-적어도 나에게도 부끄럽지않은 코드를 짜자
+###  적어도 나에게도 부끄럽지않은 코드를 짜자
 
 <!--
 **ParkJu-hong/ParkJu-hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
